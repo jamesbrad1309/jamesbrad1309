@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jamesbrad1309">
+  <a href="https://github.com/jamesnguyen1309">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+James+%F0%9F%91%8B;Techie+from+Saigon+%F0%9F%87%BB%F0%9F%87%B3;Building+web+apps+%26+large+systems;Currently+deep-diving+into+AI+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jamesbrad1309.jamesbrad1309&left_color=%230D0D0D&right_color=%23FF6B00&left_text=Profile%20views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jamesnguyen1309.jamesnguyen1309&left_color=%230D0D0D&right_color=%23FF6B00&left_text=Profile%20views" alt="Profile views" />
   <a href="mailto:j@mesnguyen.com"><img src="https://img.shields.io/badge/Say%20hi-j%40mesnguyen.com-E63946?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://mesnguyen.com"><img src="https://img.shields.io/badge/Blog-mesnguyen.com-FF6B00?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
 </p>
@@ -97,16 +97,16 @@ const james = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jamesbrad1309&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=E63946&text_color=FFFFFF&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesbrad1309&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jamesnguyen1309&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=E63946&text_color=FFFFFF&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesnguyen1309&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jamesbrad1309&hide_border=true&background=0D0D0D&ring=FF6B00&fire=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=AAAAAA&stroke=333333" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=jamesnguyen1309&hide_border=true&background=0D0D0D&ring=FF6B00&fire=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=AAAAAA&stroke=333333" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jamesbrad1309/jamesbrad1309/output/snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/jamesnguyen1309/jamesnguyen1309/output/snake.svg" alt="Contribution snake" />
 </p>
 
 ---
