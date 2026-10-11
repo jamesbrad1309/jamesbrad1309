@@ -106,7 +106,7 @@ const james = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamesbrad1309&bg_color=0D0D0D&color=FFFFFF&line=FF6B00&point=E63946&area=true&area_color=FF6B00&hide_border=true" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/jamesbrad1309/jamesbrad1309/output/snake.svg" alt="Contribution snake" />
 </p>
 
 ---
