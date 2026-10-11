@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jamesbrad1309.jamesbrad1309&left_color=%230D0D0D&right_color=%23FF6B00&left_text=Profile%20views" alt="Profile views" />
   <a href="mailto:j@mesnguyen.com"><img src="https://img.shields.io/badge/Say%20hi-j%40mesnguyen.com-E63946?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mesnguyen.com"><img src="https://img.shields.io/badge/Blog-mesnguyen.com-FF6B00?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
 </p>
 
 ---
@@ -112,11 +113,14 @@ const james = {
 
 ## 📫 Get in touch
 
-I don't really do social media — but my inbox is always open. Want to talk systems, AI, photography, or pick-up basketball in Saigon? Drop me a line:
+I don't really do social media — but my inbox is always open. Want to talk systems, AI, photography, or pick-up basketball in Saigon? Drop me a line — or swing by my blog (still under construction 🚧):
 
 <p align="center">
   <a href="mailto:j@mesnguyen.com">
     <img src="https://img.shields.io/badge/j%40mesnguyen.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6B00" alt="Email me" />
+  </a>
+  <a href="https://mesnguyen.com">
+    <img src="https://img.shields.io/badge/Blog-mesnguyen.com-0D0D0D?style=for-the-badge&logo=rss&logoColor=FF6B00" alt="Blog" />
   </a>
 </p>
 
