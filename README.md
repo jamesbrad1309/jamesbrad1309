@@ -15,6 +15,9 @@
   <a href="https://mesnguyen.com"><img src="https://img.shields.io/badge/Blog-mesnguyen.com-FF6B00?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
 </p>
 
+> [!WARNING]
+> 🚧 **My blog at [mesnguyen.com](https://mesnguyen.com) is still under construction.** Posts on systems, AI and photography are coming soon. Check back later!
+
 ---
 
 ## 🧑‍💻 About me
@@ -36,6 +39,29 @@ const james = {
 - 🌐 Day-to-day I'm building **web applications** end-to-end with TypeScript and Go.
 - 🤖 Right now I'm **learning about AI** and figuring out where it fits into real products.
 - 🏀 Off the keyboard: shooting hoops, pull-up bars, a camera in hand, and music always on.
+
+---
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jamesnguyen1309/claude-usage">📊 claude-usage</a></h3>
+      <p>A Claude Code mod that shows what every prompt costs you — <b>tokens, models and subagents, live</b> — in a Usage pane beside the conversation.</p>
+      <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF6B00" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Claude%20Code-mod-E63946?style=flat-square" alt="Claude Code mod" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jamesnguyen1309/nvim">⌨️ nvim</a></h3>
+      <p>My personal, high-performance <b>Neovim config</b> in Lua — built for aesthetics, fast navigation and a modern dev workflow, with a custom theme.</p>
+      <img src="https://img.shields.io/badge/Lua-0D0D0D?style=flat-square&logo=lua&logoColor=FF6B00" alt="Lua" />
+      <img src="https://img.shields.io/badge/Neovim-config-E63946?style=flat-square&logo=neovim&logoColor=white" alt="Neovim config" />
+    </td>
+  </tr>
+</table>
+
+<sub>…plus a handful of private side projects in TypeScript and Go that I'll open up when they're ready.</sub>
 
 ---
 
@@ -122,6 +148,10 @@ I don't really do social media — but my inbox is always open. Want to talk sys
   <a href="https://mesnguyen.com">
     <img src="https://img.shields.io/badge/Blog-mesnguyen.com-0D0D0D?style=for-the-badge&logo=rss&logoColor=FF6B00" alt="Blog" />
   </a>
+</p>
+
+<p align="center">
+  <i>“Fortis fortuna adiuvat” — fortune favours the bold.</i>
 </p>
 
 <!-- Footer -->
