@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:E63946,100:FF6B00&height=200&section=header&text=James%20Nguyen&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Techie%20%E2%80%A2%20Saigon%2C%20Vietnam&descAlignY=58&descSize=18" alt="James Nguyen" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:E63946,100:FF6B00&height=200&section=header&text=James%20Nguyen&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Techie%20%E2%80%A2%20Saigon%2C%20Vietnam%20%26%20Raleigh%2C%20USA&descAlignY=58&descSize=18" alt="James Nguyen" />
 </p>
 
 <p align="center">
   <a href="https://github.com/jamesnguyen1309">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+James+%F0%9F%91%8B;Techie+from+Saigon+%F0%9F%87%BB%F0%9F%87%B3;Building+web+apps+%26+large+systems;Currently+deep-diving+into+AI+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+James+%F0%9F%91%8B;Techie+from+Saigon+%F0%9F%87%BB%F0%9F%87%B3+%26+Raleigh+%F0%9F%87%BA%F0%9F%87%B8;Building+web+apps+%26+large+systems;Currently+deep-diving+into+AI+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 ```ts
 const james = {
   name: "James Nguyen",
-  location: "Saigon, Vietnam 🇻🇳",
+  locations: ["Saigon, Vietnam 🇻🇳", "Raleigh, USA 🇺🇸"],
   role: "Techie",
   building: ["web applications", "large-scale systems"],
   learning: "AI — LLMs, agents & everything in between 🤖",
@@ -139,7 +139,7 @@ const james = {
 
 ## 📫 Get in touch
 
-I don't really do social media — but my inbox is always open. Want to talk systems, AI, photography, or pick-up basketball in Saigon? Drop me a line — or swing by my blog (still under construction 🚧):
+I don't really do social media — but my inbox is always open. Want to talk systems, AI, photography, or pick-up basketball in Saigon or Raleigh? Drop me a line — or swing by my blog (still under construction 🚧):
 
 <p align="center">
   <a href="mailto:j@mesnguyen.com">
