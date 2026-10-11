@@ -1,16 +1,16 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:E63946,100:FF6B00&height=200&section=header&text=James%20Nguyen&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Technical%20Leader%20%E2%80%A2%20Saigon%2C%20Vietnam&descAlignY=58&descSize=18" alt="James Nguyen" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:E63946,100:FF6B00&height=200&section=header&text=James%20Nguyen&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Techie%20%E2%80%A2%20Saigon%2C%20Vietnam&descAlignY=58&descSize=18" alt="James Nguyen" />
 </p>
 
 <p align="center">
   <a href="https://github.com/jamesbrad1309">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+James+%F0%9F%91%8B;Technical+Leader+from+Saigon+%F0%9F%87%BB%F0%9F%87%B3;Building+web+apps+%26+large+systems;Currently+deep-diving+into+AI+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+James+%F0%9F%91%8B;Techie+from+Saigon+%F0%9F%87%BB%F0%9F%87%B3;Building+web+apps+%26+large+systems;Currently+deep-diving+into+AI+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jamesbrad1309&color=FF6B00&style=flat-square&label=Profile+views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jamesbrad1309.jamesbrad1309&left_color=%230D0D0D&right_color=%23FF6B00&left_text=Profile%20views" alt="Profile views" />
   <a href="mailto:j@mesnguyen.com"><img src="https://img.shields.io/badge/Say%20hi-j%40mesnguyen.com-E63946?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -22,7 +22,7 @@
 const james = {
   name: "James Nguyen",
   location: "Saigon, Vietnam 🇻🇳",
-  role: "Technical Leader",
+  role: "Techie",
   building: ["web applications", "large-scale systems"],
   learning: "AI — LLMs, agents & everything in between 🤖",
   hobbies: ["📷 photography", "🎧 music", "🏀 basketball", "🤸 calisthenics"],
