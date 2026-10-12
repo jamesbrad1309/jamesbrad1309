@@ -1,18 +1,22 @@
+<p align="center">
+  <img src="assets/logo.png" width="120" alt="James Nguyen logo" />
+</p>
+
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:E63946,100:FF6B00&height=200&section=header&text=James%20Nguyen&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Techie%20%E2%80%A2%20Saigon%2C%20Vietnam%20%C2%B7%20Raleigh%2C%20USA&descAlignY=58&descSize=18" alt="James Nguyen" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:FF5F1F&height=200&section=header&text=James%20Nguyen&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Techie%20%E2%80%A2%20Saigon%2C%20Vietnam%20%C2%B7%20Raleigh%2C%20USA&descAlignY=58&descSize=18" alt="James Nguyen" />
 </p>
 
 <p align="center">
   <a href="https://github.com/jamesnguyen1309">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+James+%F0%9F%91%8B;Techie+from+Saigon+%F0%9F%87%BB%F0%9F%87%B3+%26+Raleigh+%F0%9F%87%BA%F0%9F%87%B8;Building+web+apps+%26+large+systems;Currently+deep-diving+into+AI+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5F1F&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+James+%F0%9F%91%8B;Techie+from+Saigon+%F0%9F%87%BB%F0%9F%87%B3+%26+Raleigh+%F0%9F%87%BA%F0%9F%87%B8;Building+web+apps+%26+large+systems;Currently+deep-diving+into+AI+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jamesnguyen1309.jamesnguyen1309&left_color=%230D0D0D&right_color=%23FF6B00&left_text=Profile%20views" alt="Profile views" />
-  <a href="mailto:j@mesnguyen.com"><img src="https://img.shields.io/badge/Say%20hi-j%40mesnguyen.com-E63946?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://blogja.mesnguyen.com"><img src="https://img.shields.io/badge/Blog-blogja.mesnguyen.com-FF6B00?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jamesnguyen1309.jamesnguyen1309&left_color=%230D0D0D&right_color=%23FF5F1F&left_text=Profile%20views" alt="Profile views" />
+  <a href="mailto:j@mesnguyen.com"><img src="https://img.shields.io/badge/Say%20hi-j%40mesnguyen.com-FF5F1F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://blogja.mesnguyen.com"><img src="https://img.shields.io/badge/Blog-blogja.mesnguyen.com-FF5F1F?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
 </p>
 
 > [!WARNING]
@@ -49,13 +53,13 @@ const james = {
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jamesnguyen1309/claude-usage">📊 claude-usage</a></h3>
       <p>A Claude Code mod that shows what every prompt costs you — <b>tokens, models and subagents, live</b> — in a Usage pane beside the conversation.</p>
-      <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF6B00" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF5F1F" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Claude%20Code-mod-E63946?style=flat-square" alt="Claude Code mod" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jamesnguyen1309/nvim">⌨️ nvim</a></h3>
       <p>My personal, high-performance <b>Neovim config</b> in Lua — built for aesthetics, fast navigation and a modern dev workflow, with a custom theme.</p>
-      <img src="https://img.shields.io/badge/Lua-0D0D0D?style=flat-square&logo=lua&logoColor=FF6B00" alt="Lua" />
+      <img src="https://img.shields.io/badge/Lua-0D0D0D?style=flat-square&logo=lua&logoColor=FF5F1F" alt="Lua" />
       <img src="https://img.shields.io/badge/Neovim-config-E63946?style=flat-square&logo=neovim&logoColor=white" alt="Neovim config" />
     </td>
   </tr>
@@ -70,10 +74,10 @@ const james = {
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/Go-0D0D0D?style=for-the-badge&logo=go&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=FF5F1F" />
+  <img src="https://img.shields.io/badge/Go-0D0D0D?style=for-the-badge&logo=go&logoColor=FF5F1F" />
+  <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF5F1F" />
+  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF5F1F" />
 </p>
 
 **Frontend**
@@ -99,14 +103,14 @@ const james = {
 **Data & Infra**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-FF6B00?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-FF6B00?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-FF6B00?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-FF6B00?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-FF6B00?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-FF6B00?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF6B00?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-FF6B00?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FF5F1F?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF5F1F?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-FF5F1F?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-FF5F1F?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-FF5F1F?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-FF5F1F?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF5F1F?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-FF5F1F?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 **Currently exploring 🤖**
@@ -123,12 +127,12 @@ const james = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jamesnguyen1309&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=E63946&text_color=FFFFFF&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesnguyen1309&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jamesnguyen1309&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF5F1F&icon_color=E63946&text_color=FFFFFF&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesnguyen1309&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF5F1F&text_color=FFFFFF" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jamesnguyen1309&hide_border=true&background=0D0D0D&ring=FF6B00&fire=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=AAAAAA&stroke=333333" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=jamesnguyen1309&hide_border=true&background=0D0D0D&ring=FF5F1F&fire=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF5F1F&sideLabels=FF5F1F&dates=AAAAAA&stroke=333333" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -143,10 +147,10 @@ I don't really do social media — but my inbox is always open. Want to talk sys
 
 <p align="center">
   <a href="mailto:j@mesnguyen.com">
-    <img src="https://img.shields.io/badge/j%40mesnguyen.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6B00" alt="Email me" />
+    <img src="https://img.shields.io/badge/j%40mesnguyen.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF5F1F" alt="Email me" />
   </a>
   <a href="https://blogja.mesnguyen.com">
-    <img src="https://img.shields.io/badge/Blog-blogja.mesnguyen.com-0D0D0D?style=for-the-badge&logo=rss&logoColor=FF6B00" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-blogja.mesnguyen.com-0D0D0D?style=for-the-badge&logo=rss&logoColor=FF5F1F" alt="Blog" />
   </a>
 </p>
 
@@ -156,5 +160,5 @@ I don't really do social media — but my inbox is always open. Want to talk sys
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:E63946,100:0D0D0D&height=120&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F1F,100:0D0D0D&height=120&section=footer" alt="" />
 </p>
