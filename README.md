@@ -21,7 +21,7 @@
 
 <p align="center">
   ✍️ <b>Introducing my blog — <a href="https://blogja.mesnguyen.com">blogja.mesnguyen.com</a></b><br />
-  <sub>Writing about life, photography and technical things, the way I see them. Start with <a href="https://blogja.mesnguyen.com/posts/so-hello-world">So... Hello World</a>.</sub>
+  <sub>Writing about life, photography and technical things, the way I see them.</sub>
 </p>
 
 ---
@@ -71,13 +71,20 @@ const james = {
 
 ---
 
-## ✍️ Latest from the blog
+## ✍️ From the blog
 
-<!-- BLOG-POST-LIST:START -->
-- [Radical Candor, part 1: the 2x2 that showed me how I give feedback badly](https://blogja.mesnguyen.com/posts/radical-candor-part-1-the-two-by-two) · <sub>Oct 15, 2026</sub>
-- [So... Hello World](https://blogja.mesnguyen.com/posts/so-hello-world) · <sub>Oct 13, 2026</sub><!-- BLOG-POST-LIST:END -->
+<table>
+  <tr>
+    <td>
+      <sub>📌 PINNED · OCT 13, 2026 · LIFE</sub>
+      <h3><a href="https://blogja.mesnguyen.com/posts/so-hello-world">So... Hello World</a></h3>
+      <p>There comes an age when you stop waiting for the "right time" and just start. For me, that's now — and this blog is the result. I'll be writing about life, photography and technical things, the way I see them.</p>
+      <a href="https://blogja.mesnguyen.com/posts/so-hello-world"><img src="https://img.shields.io/badge/Read%20the%20post-FF5F1F?style=flat-square&logo=rss&logoColor=white" alt="Read the post" /></a>
+    </td>
+  </tr>
+</table>
 
-<p align="right"><a href="https://blogja.mesnguyen.com"><sub>Read more on blogja.mesnguyen.com →</sub></a></p>
+<p align="right"><a href="https://blogja.mesnguyen.com"><sub>More on blogja.mesnguyen.com →</sub></a></p>
 
 ---
 
