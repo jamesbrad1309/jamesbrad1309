@@ -19,8 +19,10 @@
   <a href="https://blogja.mesnguyen.com"><img src="https://img.shields.io/badge/Blog-blogja.mesnguyen.com-FF5F1F?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
 </p>
 
-> [!WARNING]
-> 🚧 **My blog at [blogja.mesnguyen.com](https://blogja.mesnguyen.com) is still under construction.** Posts on systems, AI and photography are coming soon. Check back later!
+<p align="center">
+  ✍️ <b>Introducing my blog — <a href="https://blogja.mesnguyen.com">blogja.mesnguyen.com</a></b><br />
+  <sub>Notes on building systems that scale, working with AI, photography, and whatever else I'm learning along the way. First posts landing soon.</sub>
+</p>
 
 ---
 
@@ -143,7 +145,7 @@ const james = {
 
 ## 📫 Get in touch
 
-I don't really do social media — but my inbox is always open. Want to talk systems, AI, photography, or pick-up basketball in Saigon or Raleigh? Drop me a line — or swing by my blog (still under construction 🚧):
+I don't really do social media — but my inbox is always open. Want to talk systems, AI, photography, or pick-up basketball in Saigon or Raleigh? Drop me a line — or swing by my blog:
 
 <p align="center">
   <a href="mailto:j@mesnguyen.com">
