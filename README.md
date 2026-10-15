@@ -75,8 +75,7 @@ const james = {
 
 <!-- BLOG-POST-LIST:START -->
 - [Radical Candor, part 1: the 2x2 that showed me how I give feedback badly](https://blogja.mesnguyen.com/posts/radical-candor-part-1-the-two-by-two) · <sub>Oct 15, 2026</sub>
-- [So... Hello World](https://blogja.mesnguyen.com/posts/so-hello-world) · <sub>Oct 13, 2026</sub>
-<!-- BLOG-POST-LIST:END -->
+- [So... Hello World](https://blogja.mesnguyen.com/posts/so-hello-world) · <sub>Oct 13, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://blogja.mesnguyen.com"><sub>Read more on blogja.mesnguyen.com →</sub></a></p>
 
