@@ -21,7 +21,7 @@
 
 <p align="center">
   ✍️ <b>Introducing my blog — <a href="https://blogja.mesnguyen.com">blogja.mesnguyen.com</a></b><br />
-  <sub>Notes on building systems that scale, working with AI, photography, and whatever else I'm learning along the way. First posts landing soon.</sub>
+  <sub>Writing about life, photography and technical things, the way I see them. Start with <a href="https://blogja.mesnguyen.com/posts/so-hello-world">So... Hello World</a>.</sub>
 </p>
 
 ---
@@ -68,6 +68,17 @@ const james = {
 </table>
 
 <sub>…plus a handful of private side projects in TypeScript and Go that I'll open up when they're ready.</sub>
+
+---
+
+## ✍️ Latest from the blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Radical Candor, part 1: the 2x2 that showed me how I give feedback badly](https://blogja.mesnguyen.com/posts/radical-candor-part-1-the-two-by-two) · <sub>Oct 15, 2026</sub>
+- [So... Hello World](https://blogja.mesnguyen.com/posts/so-hello-world) · <sub>Oct 13, 2026</sub>
+<!-- BLOG-POST-LIST:END -->
+
+<p align="right"><a href="https://blogja.mesnguyen.com"><sub>Read more on blogja.mesnguyen.com →</sub></a></p>
 
 ---
 
